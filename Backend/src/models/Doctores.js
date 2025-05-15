@@ -1,6 +1,9 @@
 /**
  *  Campos:
- *    
+ *    nombre
+ *    especialidad
+ *    correo
+ *    contra
  */
 
 import {Schema, model} from "mongoose";

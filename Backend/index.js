@@ -5,7 +5,7 @@ import {config} from "./src/config.js"
 async function main() {
     
     app.listen(config.server.port);
-    console.log("the server is running " + config.server.port)
+    console.log("The server is running " + config.server.port)
 }
 
 main();
